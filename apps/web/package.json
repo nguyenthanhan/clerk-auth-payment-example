@@ -23,7 +23,7 @@
 		"zod": "^4.0.2",
 		"convex": "^1.25.4",
 		"@clerk-auth-payment-example/backend": "workspace:*",
-		"@clerk/nextjs": "^6.31.5"
+		"@clerk/nextjs": "^6.39.2"
 	},
 	"devDependencies": {
 		"@tailwindcss/postcss": "^4.1.10",
